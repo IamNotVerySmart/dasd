@@ -1,0 +1,16 @@
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe.config
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.exe
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\bin\Debug\Kalkulator.pdb
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.AssemblyReference.cache
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.SuggestedBindingRedirects.cache
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.g.cs
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\App.g.cs
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.cache
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator_MarkupCompile.lref
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\MainWindow.baml
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.g.resources
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.Properties.Resources.resources
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.GenerateResource.cache
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.csproj.CoreCompileInputs.cache
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.exe
+G:\aaa\Kalkulator-master\Kalkulator-master\Kalkulator\obj\Debug\Kalkulator.pdb
